@@ -82,10 +82,10 @@ class Solution {
         
         return left_max_suffix_sum + right_max_prefix_sum;
     }
-    //Core function called maxSubarrayCalculator. T
+    //Core function called maxSubarrayCalculator.
     //This function takes the vector and the index range as an input and calculates the maximum subarray within the index range. 
     int maxSubarrayCalculator(vector<int>& nums, int left, int right){
-        // 1. Base CAse
+        // 1. Base Case
         if(left == right){
             return nums[left];
         }
