@@ -1,3 +1,4 @@
+// Leetcode Question: https://leetcode.com/problems/merge-k-sorted-lists/
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -10,6 +11,8 @@
  */
 
 /*
+Blog link: https://shantanu-tripathi.medium.com/divide-and-conquer-concept-code-and-practice-problems-86531dd441e
+
 The solution to this problem can also be solved using the 3 step method that we discussed in the blog:
 
 Imagine we have the following list:

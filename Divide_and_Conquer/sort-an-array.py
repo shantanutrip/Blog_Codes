@@ -1,3 +1,5 @@
+## Leetcode Question: https://leetcode.com/problems/sort-an-array/
+## Blog link: https://shantanu-tripathi.medium.com/divide-and-conquer-concept-code-and-practice-problems-86531dd441e
 class Solution(object):    
     def sortArray(self, nums):
         """

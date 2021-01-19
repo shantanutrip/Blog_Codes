@@ -1,6 +1,10 @@
 /*
+LeetCode Question: https://leetcode.com/problems/maximum-subarray/
+
 Lets follow the 3 step approach. In case you are not familiar with it, I recommend
 reading the '3 step method' section mentioned in the following blog:
+
+https://shantanu-tripathi.medium.com/divide-and-conquer-concept-code-and-practice-problems-86531dd441e
 
 To summarise, in 3 step method we make a core function. To design that, we need to think of:
 1. Base Case
